@@ -45,8 +45,8 @@ Passionate Software Developer | Web Design Enthusiast
       <br>Docker
     </td>
 <td align="center" width="88">
-         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
-      <br>JavaScript
+         <img src="./images/03-linux.svg" alt="Linux" width="44" height="44"/>
+      <br>Linux
     </td>
     <td align="center" width="88">
         <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
