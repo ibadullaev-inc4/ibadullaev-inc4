@@ -57,8 +57,8 @@ Passionate Software Developer | Web Design Enthusiast
       <br>Python
     </td>
     <td align="center" width="88">
-        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
-      <br>React.js
+        <img src="./images/06-pg.svg" alt="Postgresql" width="44" height="44"/>
+      <br>Postgresql
     </td>
     <td align="center" width="88">
         <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
