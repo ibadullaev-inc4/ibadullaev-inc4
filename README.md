@@ -86,8 +86,8 @@ Passionate Software Developer | Web Design Enthusiast
       <br>GCP
     </td>
     <td align="center" width="88">
-        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
-      <br>Redux
+        <img src="./images/13-tf.svg" alt="Terraform" width="44" height="44"/>
+      <br>Terraform
     </td>
       <td align="center" width="88">
         <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
@@ -107,8 +107,8 @@ Passionate Software Developer | Web Design Enthusiast
       <br>VSCode
      </td>
   <td align="center" width="88">
-        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
-      <br>Figma
+        <img src="./images/18-gha.svg" alt="GitHub Actions" width="44" height="44"/>
+      <br>GitHub Actions
      </td>
 </table>
 </div>
