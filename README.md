@@ -90,8 +90,8 @@ Passionate Software Developer | Web Design Enthusiast
       <br>Terraform
     </td>
       <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
-      <br>Postman
+        <img src="./images/14-argo.svg" alt="Argo CD" width="44" height="44"/>
+      <br>Argo CD
     </td>
       </td>
       <td align="center" width="88">
