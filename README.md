@@ -19,7 +19,7 @@ Passionate Software Developer | Web Design Enthusiast
 <table  align="center">
   <tr>
     
-        🇺🇦 Ukrainian - Native
+        🇺🇦 Ukrainian - Pre-Intermediate
         
   </tr>
 
@@ -37,8 +37,8 @@ Passionate Software Developer | Web Design Enthusiast
 <table align="center">
   <tr>
      <td align="center"  width="88">
-         <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
-      <br>HTML5
+         <img src="./images/01-k8s.svg" alt="Kubernetes" width="44" height="44"/>
+      <br>Kubernetes
     </td>
     <td align="center" width="88">
         <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
