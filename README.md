@@ -41,8 +41,8 @@ Passionate Software Developer | Web Design Enthusiast
       <br>Kubernetes
     </td>
     <td align="center" width="88">
-        <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
-      <br>CSS3
+        <img src="./images/02-docker.svg" alt="Docker" width="44" height="44"/>
+      <br>Docker
     </td>
 <td align="center" width="88">
          <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
