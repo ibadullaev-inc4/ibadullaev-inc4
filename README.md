@@ -143,8 +143,4 @@ Passionate Software Developer | Web Design Enthusiast
 
 <br>
 
-<div align="center">
-<a href="https://www.codewars.com/users/ibadullaev-inc4"><img src="https://www.codewars.com/users/ibadullaev-inc4/badges/small">
-</div>
-
 <br>
