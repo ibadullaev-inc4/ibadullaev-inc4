@@ -74,16 +74,16 @@ Passionate Software Developer | Web Design Enthusiast
       </td>
   </tr>
     <td align="center" width="88">
-        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
-      <br>Sass
+        <img src="./images/10-do.svg" alt="DigitalOcean" width="44" height="44"/>
+      <br>DigitalOcean
     </td>
     <td align="center" width="88"> 
-        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
-      <br>BEM
+        <img src="./images/11-aws.svg" alt="AWS" width="44" height="44"/>
+      <br>AWS
     </td>
     <td align="center"  width="88">
-        <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
-      <br>Tailwind
+        <img src="./images/12-gcp.svg" alt="GCP" width="44" height="44"/>
+      <br>GCP
     </td>
     <td align="center" width="88">
         <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
