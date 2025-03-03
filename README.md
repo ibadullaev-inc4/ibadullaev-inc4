@@ -61,8 +61,8 @@ Passionate Software Developer | Web Design Enthusiast
       <br>Postgresql
     </td>
     <td align="center" width="88">
-        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
-      <br>Next.js
+        <img src="./images/07-ansible.svg" alt="Ansible" width="44" height="44"/>
+      <br>Ansible
     </td>
     <td align="center" width="88">
       <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
