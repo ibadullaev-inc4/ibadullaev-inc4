@@ -137,10 +137,6 @@ Passionate Software Developer | Web Design Enthusiast
   
 <br>
 
-<div align="center">
-<a href="https://u8views.com/github/ibadullaev-inc4"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
-</div>
-
-<br>
+<a href="https://u8views.com/github/ibadullaev-inc4"><img src="https://u8views.com/api/v1/github/profiles/101882172/views/day-week-month-total-count.svg"></a>
 
 <br>
