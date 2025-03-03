@@ -11,7 +11,7 @@ Hey there, I'm Nariman!
   
 ### About Me :
 
-Passionate Software Developer | Web Design Enthusiast
+DevOps Engineer  | Linux Administrator
 
 ### Languages :
 
