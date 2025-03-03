@@ -69,8 +69,8 @@ Passionate Software Developer | Web Design Enthusiast
       <br>Node.js
     </td>
         <td align="center" width="88">
-       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
-      <br>SQL
+       <img src="./images/09-helm.svg" alt="Helm" width="44" height="44"/>
+      <br>Helm
       </td>
   </tr>
     <td align="center" width="88">
